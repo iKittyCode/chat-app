@@ -1,0 +1,16 @@
+{
+  "name": "better-texting",
+  "version": "1.0.0",
+  "description": "better texting",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "iKittyCode",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nedb": "^1.8.0",
+    "socket.io": "^4.5.1"
+  }
+}
